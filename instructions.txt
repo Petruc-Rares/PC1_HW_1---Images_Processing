@@ -24,7 +24,7 @@ nu vor aparea in directorul output !
 
 ===============================================================================
 INSTRUCTIUNI DE UTILIZARE------------------------------------------------------
-0) Unarchive input archive
+0) Unarchive input & ref archives
 
 1) Asigurati-va ca checker-ul are drepturi de executie:
 
